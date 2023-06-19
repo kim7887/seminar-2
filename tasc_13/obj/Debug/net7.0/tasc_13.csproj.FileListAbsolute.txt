@@ -1,0 +1,15 @@
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\bin\Debug\net7.0\tasc_13.exe
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\bin\Debug\net7.0\tasc_13.deps.json
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\bin\Debug\net7.0\tasc_13.runtimeconfig.json
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\bin\Debug\net7.0\tasc_13.dll
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\bin\Debug\net7.0\tasc_13.pdb
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\obj\Debug\net7.0\tasc_13.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\obj\Debug\net7.0\tasc_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\obj\Debug\net7.0\tasc_13.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\obj\Debug\net7.0\tasc_13.AssemblyInfo.cs
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\obj\Debug\net7.0\tasc_13.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\obj\Debug\net7.0\tasc_13.dll
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\obj\Debug\net7.0\refint\tasc_13.dll
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\obj\Debug\net7.0\tasc_13.pdb
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\obj\Debug\net7.0\tasc_13.genruntimeconfig.cache
+C:\Users\12345\Desktop\Seminar2дз_C#\tasc_13\obj\Debug\net7.0\ref\tasc_13.dll
